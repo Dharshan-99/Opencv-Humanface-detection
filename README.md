@@ -1,4 +1,4 @@
-# Opencv-Humanface-detevction
+# Opencv-Humanface-detection
 Detect human face using Opencv
 ****************
 # OpenCv
